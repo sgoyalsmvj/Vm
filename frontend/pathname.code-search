@@ -1,0 +1,9 @@
+# Query: pathname
+
+2 results - 2 files
+
+frontend\src\router\AppRouter.jsx:
+  48:         <Routes location={location} >
+
+frontend\src\router\AuthRouter.jsx:
+  20:         <Routes location={location}>
